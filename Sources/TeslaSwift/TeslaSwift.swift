@@ -39,6 +39,7 @@ public enum TeslaAPI {
         case vehicleChargingCmds = "vehicle_charging_cmds"
         case energyDeviceData = "energy_device_data"
         case energyCmds = "energy_cmds"
+        case vehicleLocation = "vehicle_location"
     }
 
     case ownerAPI
